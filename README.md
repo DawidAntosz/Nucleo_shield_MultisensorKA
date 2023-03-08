@@ -1,7 +1,5 @@
-# Nucleo_shield_MultisensorKA
-Full project of programs supporting sensors
-
-## Nucleo - STM32F091RC
+# Nucleo - STM32F091RC 
+Full project of programs supporting sensors from Nucleo_shield_MultisensorKA
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035334/223840647-ef9794a4-968a-41a9-afc6-1d8117f4eee4.png" width = "300" title="photo">
