@@ -1,6 +1,7 @@
 # Nucleo - STM32F091RC 
 Full project of programs supporting sensors from KA-Nucleo-shield-Multisensor.
 <br />
+<br />
 KA-Nucleo-Multisensor is an expansion board (shield). It extends functionality of development board from STM32 Nucleo series. 
 <br />
 Shield has ST Morpho connectors and was equipped i.a. with 4-Digit 7-Segment LED Display, four RGB LEDs, accelerometer LIS35DE, pressure sensor LPS25HB and also digital thermometer DS18B20.
