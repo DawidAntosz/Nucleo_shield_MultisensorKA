@@ -15,3 +15,8 @@ Shield has ST Morpho connectors and was equipped i.a. with 4-Digit 7-Segment LED
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035334/223837342-5e794905-0402-41cb-b2e8-b837aec6c88d.png" title="Scheme">
 </p>
+
+Set timer 16:
+Prescaler = 47
+Counter perion = 4999
+![image](https://user-images.githubusercontent.com/64035334/224101611-a85473a3-c1b1-4c3a-92a9-bcffedcafa7e.png)
