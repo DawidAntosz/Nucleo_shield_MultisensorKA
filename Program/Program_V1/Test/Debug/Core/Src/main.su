@@ -1,0 +1,11 @@
+../Core/Src/main.c:132:5:main	24	static
+../Core/Src/main.c:222:6:SystemClock_Config	112	static
+../Core/Src/main.c:267:6:Program_1	8	static
+../Core/Src/main.c:274:6:Program_2	32	static
+../Core/Src/main.c:303:6:Program_3	8	static
+../Core/Src/main.c:307:6:State_Buttons	16	static
+../Core/Src/main.c:325:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:340:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:356:6:Set_Sign	16	static
+../Core/Src/main.c:366:6:Display	40	static
+../Core/Src/main.c:435:6:Error_Handler	8	static,ignoring_inline_asm
